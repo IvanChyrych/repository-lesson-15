@@ -2,3 +2,8 @@ h1{
     color: aqua;
     text-transform: uppercase;
 }
+
+p{
+    color: tomato;
+    font-size: 6px;
+}
